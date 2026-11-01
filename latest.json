@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.16",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.16.hvu",
-  "sha256": "6630012f99469bb36393400cf0f7954330e9b0ecd4d4e5208127749a795fa7de",
-  "notes": "Thêm vai trò Sếp: toàn quyền, chỉ Sếp quản lý được tài khoản Quản lý và Sếp. Tài khoản quản lý đầu tiên tự thành Sếp sau khi mở lại HadoVie.",
-  "publishedAt": "2026-11-01T12:06:33.548Z"
+  "version": "2026.11.01.17",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.17.hvu",
+  "sha256": "ab70bd5d3946149ffd7bade8936f971aa4c4be5ff0db87e287d3bfbc56bbc4c3",
+  "notes": "Vai trò Quản trị app (người quản lý web và app) tách khỏi Sếp; Sếp xem Hoạt động nhân viên (bán, hủy, trả hàng, nhập kho, thu chi, kiểm kho); menu gọn hơn trên màn vừa.",
+  "publishedAt": "2026-11-01T12:48:10.408Z"
 }
