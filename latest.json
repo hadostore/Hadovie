@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.15",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.15.hvu",
-  "sha256": "55c12b8e1d17408bc34273c24f6f9a10b5e83f5b43705c9ce46878336d28ce38",
-  "notes": "Kiểm tra Tường lửa Windows cổng 8686 khi khởi động, tự mở nếu có quyền; Cài đặt hiện cảnh báo kèm lệnh PowerShell để chép khi điện thoại xem từ xa (Tailscale) bị chặn. Gồm cả bản .14: xem từ xa qua 4G, danh sách thiết bị, đăng xuất từ xa, mã QR, giao diện điện thoại.",
-  "publishedAt": "2026-11-01T09:57:13.919Z"
+  "version": "2026.11.01.16",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.16.hvu",
+  "sha256": "6630012f99469bb36393400cf0f7954330e9b0ecd4d4e5208127749a795fa7de",
+  "notes": "Thêm vai trò Sếp: toàn quyền, chỉ Sếp quản lý được tài khoản Quản lý và Sếp. Tài khoản quản lý đầu tiên tự thành Sếp sau khi mở lại HadoVie.",
+  "publishedAt": "2026-11-01T12:06:33.548Z"
 }
