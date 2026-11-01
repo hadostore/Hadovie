@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.10",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.10.hvu",
-  "sha256": "954be3e9d674b05a9671973fbf62ebe28b891b1e7ff9717f2700277ace112065",
-  "notes": "Chiết khấu % có 2 số lẻ (12,50%); ô Nội dung bán hàng in lên hóa đơn; hóa đơn ẩn SĐT/địa chỉ khách khi trống.",
-  "publishedAt": "2026-11-01T05:22:05.628Z"
+  "version": "2026.11.01.11",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.11.hvu",
+  "sha256": "264663bf6c418617eec732fcace679168698dca8a1441913a1b344a714d29071",
+  "notes": "Sửa/hủy phiếu nhập (quản lý), sửa đơn giá từng dòng khi bán, hóa đơn thêm SĐT/địa chỉ khách và gọn nửa tờ A4",
+  "publishedAt": "2026-11-01T08:27:08.030Z"
 }
