@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.4",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.4.hvu",
-  "sha256": "18f1b772d38efa50e0fd095ae15b7ee4c64e1eab1583e0a563ebea25ef9a3872",
-  "notes": "Bán hàng: thêm bảng Đơn giá / Giảm giá VND-% / Giá bán tự sửa trên từng dòng; Khách thanh toán tự bằng Khách cần trả.",
-  "publishedAt": "2026-11-01T04:01:24.711Z"
+  "version": "2026.11.01.5",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.5.hvu",
+  "sha256": "75b62a2aabc8ba382e3d228a6bcb59fa986bf2027ace3c4c81d3acd1df3b4817",
+  "notes": "Nhập hàng: nhân viên tự đặt Mã phiếu nhập; thêm chiết khấu đơn giá (VND/%) từng dòng, giá vốn theo giá sau chiết khấu.",
+  "publishedAt": "2026-11-01T04:07:23.828Z"
 }
