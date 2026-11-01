@@ -1,0 +1,8 @@
+{
+  "app": "hadovie",
+  "version": "2026.11.01.2",
+  "url": "https://raw.githubusercontent.com/hadostore/hadovie/main/HadoVie-capnhat-2026.11.01.2.hvu",
+  "sha256": "fd586ddc6fd89b29fee11c848a168b210b2fbecf9c3fa1a11f23cd643ad210c4",
+  "notes": "Cập nhật tự động qua GitHub: Cài đặt → Cập nhật phần mềm có nút Cập nhật ngay.",
+  "publishedAt": "2026-11-01T03:13:19.676Z"
+}
