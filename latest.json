@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.12",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.12.hvu",
-  "sha256": "4d0bda9d6f0db60f8f3488c6574cb7d3f5dc7c28c4e195ff20bedb81bedd45ff",
-  "notes": "Nút + cuối dòng để nhân bản sản phẩm khi bán; bấm tên khách ở màn bán để sửa thông tin khách kiểu KiotViet",
-  "publishedAt": "2026-11-01T08:47:00.941Z"
+  "version": "2026.11.01.13",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.13.hvu",
+  "sha256": "fd49800ccfb9054a46e61e8b18b5d4d41a9f42e2d3763d49bac895c722af356b",
+  "notes": "Báo cáo kiểu KiotViet: Bán hàng, Hàng hóa, Khách hàng, Nhà cung cấp; biểu đồ hoặc trang báo cáo A4, xuất Excel/PDF",
+  "publishedAt": "2026-11-01T09:08:50.915Z"
 }
