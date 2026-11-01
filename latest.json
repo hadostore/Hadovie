@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.14",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.14.hvu",
-  "sha256": "5c132e89d2cda15aac04defb6a85520fd6782c62afa107c3620946231962c29d",
-  "notes": "Xem HadoVie từ xa trên điện thoại qua 4G (Tailscale) kèm mã QR; danh sách thiết bị đang đăng nhập, đăng xuất từ xa; mã QR Wi-Fi cửa hàng, thêm vào màn hình chính; giao diện gọn trên điện thoại.",
-  "publishedAt": "2026-11-01T09:49:32.818Z"
+  "version": "2026.11.01.15",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.15.hvu",
+  "sha256": "55c12b8e1d17408bc34273c24f6f9a10b5e83f5b43705c9ce46878336d28ce38",
+  "notes": "Kiểm tra Tường lửa Windows cổng 8686 khi khởi động, tự mở nếu có quyền; Cài đặt hiện cảnh báo kèm lệnh PowerShell để chép khi điện thoại xem từ xa (Tailscale) bị chặn. Gồm cả bản .14: xem từ xa qua 4G, danh sách thiết bị, đăng xuất từ xa, mã QR, giao diện điện thoại.",
+  "publishedAt": "2026-11-01T09:57:13.919Z"
 }
