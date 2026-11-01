@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.11",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.11.hvu",
-  "sha256": "264663bf6c418617eec732fcace679168698dca8a1441913a1b344a714d29071",
-  "notes": "Sửa/hủy phiếu nhập (quản lý), sửa đơn giá từng dòng khi bán, hóa đơn thêm SĐT/địa chỉ khách và gọn nửa tờ A4",
-  "publishedAt": "2026-11-01T08:27:08.030Z"
+  "version": "2026.11.01.12",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.12.hvu",
+  "sha256": "4d0bda9d6f0db60f8f3488c6574cb7d3f5dc7c28c4e195ff20bedb81bedd45ff",
+  "notes": "Nút + cuối dòng để nhân bản sản phẩm khi bán; bấm tên khách ở màn bán để sửa thông tin khách kiểu KiotViet",
+  "publishedAt": "2026-11-01T08:47:00.941Z"
 }
