@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.5",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.5.hvu",
-  "sha256": "75b62a2aabc8ba382e3d228a6bcb59fa986bf2027ace3c4c81d3acd1df3b4817",
-  "notes": "Nhập hàng: nhân viên tự đặt Mã phiếu nhập; thêm chiết khấu đơn giá (VND/%) từng dòng, giá vốn theo giá sau chiết khấu.",
-  "publishedAt": "2026-11-01T04:07:23.828Z"
+  "version": "2026.11.01.6",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.6.hvu",
+  "sha256": "e6b15b45efebb56ac7ae7ef3e397fbd1df13209c02d43bbb348c8162a471d6bb",
+  "notes": "Bán hàng: ô Khách thanh toán mở ra = 0, nhân viên gõ tiền khách đưa, app tính tiền thừa.",
+  "publishedAt": "2026-11-01T04:22:12.763Z"
 }
