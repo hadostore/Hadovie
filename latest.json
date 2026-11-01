@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.8",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.8.hvu",
-  "sha256": "f261ffbc8664852a1a245d7a47e1924a94912000e65508848b3ad262f8b3104c",
-  "notes": "Lọc và xuất Excel theo mốc thời gian (Sản phẩm, Đơn hàng, Phiếu nhập, Lịch sử kho); báo cáo Nhập–Xuất–Tồn theo kỳ; sửa ngày giờ trên phiếu.",
-  "publishedAt": "2026-11-01T04:44:09.744Z"
+  "version": "2026.11.01.9",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.9.hvu",
+  "sha256": "34f5d5ec7347813f71500ab95dd2254c127652f0fe0e1de62406071d6be05c5a",
+  "notes": "Thêm Thẻ kho cho từng mặt hàng: chứng từ, thời gian, loại giao dịch, giá GD, giá vốn, số lượng, tồn cuối, đối tác; lọc theo thời gian và xuất Excel.",
+  "publishedAt": "2026-11-01T05:00:57.803Z"
 }
