@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.6",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.6.hvu",
-  "sha256": "e6b15b45efebb56ac7ae7ef3e397fbd1df13209c02d43bbb348c8162a471d6bb",
-  "notes": "Bán hàng: ô Khách thanh toán mở ra = 0, nhân viên gõ tiền khách đưa, app tính tiền thừa.",
-  "publishedAt": "2026-11-01T04:22:12.763Z"
+  "version": "2026.11.01.7",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.7.hvu",
+  "sha256": "707614e32b6e5a6db9b3525a144aac8eb1e7b8429bb7826628235a8a8f4aa600",
+  "notes": "Ô tìm hàng ưu tiên mặt hàng bán nhiều hôm nay; bấm ô trống hiện Bán chạy hôm nay.",
+  "publishedAt": "2026-11-01T04:32:52.709Z"
 }
