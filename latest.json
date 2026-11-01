@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.3",
-  "url": "https://raw.githubusercontent.com/hadostore/hadovie/main/HadoVie-capnhat-2026.11.01.3.hvu",
-  "sha256": "53a535da8f8c6b9f3898a1cc0bbdf1556fe74d2bdb4d7841441b7a56cda03a6b",
-  "notes": "HadoVie tự cài bản mới khi cửa hàng rảnh, không cần bấm. Sau khi cài bản này, đóng rồi mở lại HadoVie một lần.",
-  "publishedAt": "2026-11-01T03:54:40.167Z"
+  "version": "2026.11.01.4",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.4.hvu",
+  "sha256": "18f1b772d38efa50e0fd095ae15b7ee4c64e1eab1583e0a563ebea25ef9a3872",
+  "notes": "Bán hàng: thêm bảng Đơn giá / Giảm giá VND-% / Giá bán tự sửa trên từng dòng; Khách thanh toán tự bằng Khách cần trả.",
+  "publishedAt": "2026-11-01T04:01:24.711Z"
 }
