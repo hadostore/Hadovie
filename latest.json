@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.18",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.18.hvu",
-  "sha256": "a002fcbf38806a69121571cd774cee53566c3b7bb9987e1e70ea278aa5a891c8",
-  "notes": "Trang Sản phẩm hiện giá bán, giá vốn theo nghìn đồng giống KiotViet (1,399 = 1.399.000 ₫). Gồm bản .17: vai trò Quản trị app, Hoạt động nhân viên cho Sếp.",
-  "publishedAt": "2026-11-01T12:53:40.388Z"
+  "version": "2026.11.01.19",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.19.hvu",
+  "sha256": "5518e8935f9bfe8591524b1f2d7003238ccd20df34614ce875b83fea86561f50",
+  "notes": "Bỏ cột HSD trên hóa đơn in khổ A4 và A5 (HSD vẫn lưu trong sản phẩm, đơn và file Excel).",
+  "publishedAt": "2026-11-01T15:09:38.642Z"
 }
