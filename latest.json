@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.7",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.7.hvu",
-  "sha256": "707614e32b6e5a6db9b3525a144aac8eb1e7b8429bb7826628235a8a8f4aa600",
-  "notes": "Ô tìm hàng ưu tiên mặt hàng bán nhiều hôm nay; bấm ô trống hiện Bán chạy hôm nay.",
-  "publishedAt": "2026-11-01T04:32:52.709Z"
+  "version": "2026.11.01.8",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.8.hvu",
+  "sha256": "f261ffbc8664852a1a245d7a47e1924a94912000e65508848b3ad262f8b3104c",
+  "notes": "Lọc và xuất Excel theo mốc thời gian (Sản phẩm, Đơn hàng, Phiếu nhập, Lịch sử kho); báo cáo Nhập–Xuất–Tồn theo kỳ; sửa ngày giờ trên phiếu.",
+  "publishedAt": "2026-11-01T04:44:09.744Z"
 }
