@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.21",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.21.hvu",
-  "sha256": "1ac0c67925eca5e240ec19c6ed7f10a77cb165f5e57e27e043266b3bbfab91b6",
-  "notes": "Link của Sếp vào thẳng không cần đăng nhập kể cả khi điện thoại Sếp đang bật Tailscale",
-  "publishedAt": "2026-11-02T15:27:11.197Z"
+  "version": "2026.11.01.22",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.22.hvu",
+  "sha256": "d89e5bfe74836fac4c0d3e5aaac0af31cd29a1efcb6bd8a52fe8b479ec17ce22",
+  "notes": "Trang Xem nhanh cho Sếp: doanh thu hôm nay so với hôm qua cùng giờ, nhân viên đang làm việc, đơn vừa bán báo ngay",
+  "publishedAt": "2026-11-02T15:46:31.046Z"
 }
