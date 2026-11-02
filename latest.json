@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.19",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.19.hvu",
-  "sha256": "5518e8935f9bfe8591524b1f2d7003238ccd20df34614ce875b83fea86561f50",
-  "notes": "Bỏ cột HSD trên hóa đơn in khổ A4 và A5 (HSD vẫn lưu trong sản phẩm, đơn và file Excel).",
-  "publishedAt": "2026-11-01T15:09:38.642Z"
+  "version": "2026.11.01.20",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.20.hvu",
+  "sha256": "f2132252b19b85a0b1cd06bc96e398f9639e5a9c2aa5490c9b5350e4db7d354a",
+  "notes": "Link riêng cho Sếp: xem nhân viên đang làm việc theo thời gian thực, không cần đăng nhập (Cài đặt → Link riêng cho Sếp)",
+  "publishedAt": "2026-11-02T10:23:11.250Z"
 }
