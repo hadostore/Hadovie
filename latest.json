@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.20",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.20.hvu",
-  "sha256": "f2132252b19b85a0b1cd06bc96e398f9639e5a9c2aa5490c9b5350e4db7d354a",
-  "notes": "Link riêng cho Sếp: xem nhân viên đang làm việc theo thời gian thực, không cần đăng nhập (Cài đặt → Link riêng cho Sếp)",
-  "publishedAt": "2026-11-02T10:23:11.250Z"
+  "version": "2026.11.01.21",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.21.hvu",
+  "sha256": "1ac0c67925eca5e240ec19c6ed7f10a77cb165f5e57e27e043266b3bbfab91b6",
+  "notes": "Link của Sếp vào thẳng không cần đăng nhập kể cả khi điện thoại Sếp đang bật Tailscale",
+  "publishedAt": "2026-11-02T15:27:11.197Z"
 }
