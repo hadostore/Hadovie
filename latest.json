@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.01.22",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.01.22.hvu",
-  "sha256": "d89e5bfe74836fac4c0d3e5aaac0af31cd29a1efcb6bd8a52fe8b479ec17ce22",
-  "notes": "Trang Xem nhanh cho Sếp: doanh thu hôm nay so với hôm qua cùng giờ, nhân viên đang làm việc, đơn vừa bán báo ngay",
-  "publishedAt": "2026-11-02T15:46:31.046Z"
+  "version": "2026.11.03.1",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.03.1.hvu",
+  "sha256": "01c8087576308d26940c19ca34ce6baf92a13a562ce3b61082d3223084676a26",
+  "notes": "Màn Zalo (chỉ một máy được dùng): xem tin Zalo OA, trả lời khách, lên đơn từ tin nhắn với giá chiết khấu đề xuất riêng từng khách. Cần mở lại HadoVie trên máy chủ một lần.",
+  "publishedAt": "2026-11-03T10:43:03.068Z"
 }
