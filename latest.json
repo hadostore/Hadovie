@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.04.1",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.04.1.hvu",
-  "sha256": "b2ec3de22c7892c4114741686e08fc69f440b1d28c8f096cf123c23979ba0482",
-  "notes": "Bản 2026.11.04.1: Đăng nhập Zalo cá nhân bằng mã QR (Zalo → Kết nối Zalo). HadoVie chỉ đọc tin khách nhắn để lên đơn, không gửi tin. Cách không chính thức, nên thử bằng số Zalo phụ trước. Cần mở lại HadoVie trên máy chủ 1 lần.",
-  "publishedAt": "2026-11-04T02:10:18.266Z"
+  "version": "2026.11.04.2",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.04.2.hvu",
+  "sha256": "4e5415e6909d5cf036ed8bed1ca877349a8c3c2378b79e7c01c533e9cf4a30be",
+  "notes": "Bản 2026.11.04.2: Zalo cá nhân tự lấy tin cũ (7 ngày, chọn 1–30 ngày). Tab Đơn chờ duyệt: HadoVie tự soạn đơn từ tin đặt hàng, nhân viên bấm duyệt. Sếp xem và chốt chiết khấu riêng từng khách trên trang Xem nhanh. Cần mở lại HadoVie trên máy chủ 1 lần.",
+  "publishedAt": "2026-11-04T14:40:38.057Z"
 }
