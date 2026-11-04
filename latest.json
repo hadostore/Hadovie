@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.03.2",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.03.2.hvu",
-  "sha256": "b8c849021372aa68d351b1f0ff3d2b6d975ea9e5f61ffd7f05841795efd33dba",
-  "notes": "Bản 2026.11.03.2: Bảng giá riêng từng khách × từng mã hàng học từ file chi tiết hóa đơn KiotViet. Quy tắc không đoán: chỉ tự điền khi 2 lần mua gần nhất cùng mức (ghi rõ mã hóa đơn, ngày); còn lại dòng đỏ, nhân viên phải chọn/nhập giá mới tạo được đơn. Xuất/nhập Excel để anh duyệt. Sửa nhiều lỗi màn Zalo. Cần mở lại HadoVie trên máy chủ 1 lần.",
-  "publishedAt": "2026-11-03T14:30:07.632Z"
+  "version": "2026.11.04.1",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.04.1.hvu",
+  "sha256": "b2ec3de22c7892c4114741686e08fc69f440b1d28c8f096cf123c23979ba0482",
+  "notes": "Bản 2026.11.04.1: Đăng nhập Zalo cá nhân bằng mã QR (Zalo → Kết nối Zalo). HadoVie chỉ đọc tin khách nhắn để lên đơn, không gửi tin. Cách không chính thức, nên thử bằng số Zalo phụ trước. Cần mở lại HadoVie trên máy chủ 1 lần.",
+  "publishedAt": "2026-11-04T02:10:18.266Z"
 }
