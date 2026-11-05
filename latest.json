@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.04.2",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.04.2.hvu",
-  "sha256": "4e5415e6909d5cf036ed8bed1ca877349a8c3c2378b79e7c01c533e9cf4a30be",
-  "notes": "Bản 2026.11.04.2: Zalo cá nhân tự lấy tin cũ (7 ngày, chọn 1–30 ngày). Tab Đơn chờ duyệt: HadoVie tự soạn đơn từ tin đặt hàng, nhân viên bấm duyệt. Sếp xem và chốt chiết khấu riêng từng khách trên trang Xem nhanh. Cần mở lại HadoVie trên máy chủ 1 lần.",
-  "publishedAt": "2026-11-04T14:40:38.057Z"
+  "version": "2026.11.05.1",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.1.hvu",
+  "sha256": "d6c29414966887aea559513b423999e0fbfd584d38be120a41ef1259b9fbe8ac",
+  "notes": "Bản 2026.11.05.1: Sếp xem được chiết khấu riêng từng khách qua link xem từ xa (chỉ xem). Chốt mức vẫn phải đăng nhập tài khoản Sếp. Cần mở lại HadoVie trên máy chủ 1 lần.",
+  "publishedAt": "2026-11-05T01:20:30.280Z"
 }
