@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.05.2",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.2.hvu",
-  "sha256": "6cf702179c80003bae6df013505a635bf9cf674d8542f0cb352d9c6959fd34f6",
-  "notes": "Bản 2026.11.05.2: Zalo cá nhân lấy bù tin bị lỡ đúng cách của Zalo (tin đến sau lúc đăng nhập, kể cả lúc HadoVie tắt máy). Câu báo nói rõ tin trước lúc đăng nhập nằm trên điện thoại. Thêm Chi tiết kỹ thuật để chẩn đoán. Cần mở lại HadoVie trên máy chủ 1 lần.",
-  "publishedAt": "2026-11-05T02:29:05.575Z"
+  "version": "2026.11.05.3",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.3.hvu",
+  "sha256": "b6841d81eb50b6f73c5ff32d4d3d1432592200d15f07c57587e1dc47ba09f952",
+  "notes": "Thêm nút 'Đồng bộ tin cũ từ điện thoại' trong Zalo cá nhân: lấy tin 1-1 trước lúc đăng nhập, bấm Đồng ý trên điện thoại. Chỉ đọc, không gửi gì cho khách.",
+  "publishedAt": "2026-11-05T03:52:30.731Z"
 }
