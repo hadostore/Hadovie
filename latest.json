@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.05.1",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.1.hvu",
-  "sha256": "d6c29414966887aea559513b423999e0fbfd584d38be120a41ef1259b9fbe8ac",
-  "notes": "Bản 2026.11.05.1: Sếp xem được chiết khấu riêng từng khách qua link xem từ xa (chỉ xem). Chốt mức vẫn phải đăng nhập tài khoản Sếp. Cần mở lại HadoVie trên máy chủ 1 lần.",
-  "publishedAt": "2026-11-05T01:20:30.280Z"
+  "version": "2026.11.05.2",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.2.hvu",
+  "sha256": "6cf702179c80003bae6df013505a635bf9cf674d8542f0cb352d9c6959fd34f6",
+  "notes": "Bản 2026.11.05.2: Zalo cá nhân lấy bù tin bị lỡ đúng cách của Zalo (tin đến sau lúc đăng nhập, kể cả lúc HadoVie tắt máy). Câu báo nói rõ tin trước lúc đăng nhập nằm trên điện thoại. Thêm Chi tiết kỹ thuật để chẩn đoán. Cần mở lại HadoVie trên máy chủ 1 lần.",
+  "publishedAt": "2026-11-05T02:29:05.575Z"
 }
