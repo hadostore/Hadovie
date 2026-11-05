@@ -1,8 +1,8 @@
 {
   "app": "hadovie",
-  "version": "2026.11.05.3",
-  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.3.hvu",
-  "sha256": "b6841d81eb50b6f73c5ff32d4d3d1432592200d15f07c57587e1dc47ba09f952",
-  "notes": "Thêm nút 'Đồng bộ tin cũ từ điện thoại' trong Zalo cá nhân: lấy tin 1-1 trước lúc đăng nhập, bấm Đồng ý trên điện thoại. Chỉ đọc, không gửi gì cho khách.",
-  "publishedAt": "2026-11-05T03:52:30.731Z"
+  "version": "2026.11.05.4",
+  "url": "https://raw.githubusercontent.com/hadostore/Hadovie/main/HadoVie-capnhat-2026.11.05.4.hvu",
+  "sha256": "d2afe4edfc5918582cbd3bbb25be5015d87d2960a6a8bc39736a0cf790c7176e",
+  "notes": "Tin Zalo hiện ngay trong app (khoảng 1 giây), không phải chờ 15-30 giây: danh sách hội thoại, hội thoại đang mở, số tin chưa đọc và đơn nháp.",
+  "publishedAt": "2026-11-05T08:13:43.449Z"
 }
